@@ -6,7 +6,7 @@ spec:
   template:
     spec:
       containers:
-        - name: api
+        - name: sample-nginx
           resources:
             requests:
               cpu: 500m
